@@ -1,11 +1,11 @@
 # Site settings
-author: Timothy Harling
-title: 
+author: Timothy harling
+title: Code Bagel
 header-img: img/home-bg.png
 email: timoharling@gmail.com
-copyright_name: Timothy Harling
+copyright_name: Timothy harling
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Bagel
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  timoharling
